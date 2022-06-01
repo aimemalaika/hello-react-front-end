@@ -1,11 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Metrics WebApp
+# Hello React
 > This React capstone project (remember what are they?)is about building a mobile web application to check a list of metrics (numeric values) that you will create making use of React and Redux.
 
 ## Built With
 - HTML & CSS & JavaScript
 - Html, Css & JavaScript linters
 - React.Js and Redux
+
+### This is the front-end for the [hello-rails-back-end](https://github.com/aimemalaika/hello-rails-back-end/pull/1) project
 
 ##### Getting Started
 - clone the repository by running\
